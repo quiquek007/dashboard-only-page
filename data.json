@@ -14385,52 +14385,6 @@
           "github": "https://github.com/slayer110"
         },
         {
-          "shortgithub": "quiquek007",
-          "tasks": [
-            {
-              "name": "Markup #1",
-              "mark": 100,
-              "comment": "All given requirements were met, h1, code style, slider, responsive design, markup, some very minor style issues were met but overall the result is very good."
-            },
-            {
-              "name": "Code Jam \"DOM, DOM Events\" ",
-              "mark": 100,
-              "comment": "All requirements were met, "
-            },
-            {
-              "name": "Code Jam \"CoreJS\" ",
-              "mark": 105,
-              "comment": "Make task not fully functional, Recursion Task has global variable"
-            },
-            {
-              "name": "Code Jam \"CV\"",
-              "mark": 100,
-              "comment": "All requirements fulfilled."
-            },
-            {
-              "name": "Presentation",
-              "mark": 120,
-              "comment": "-"
-            },
-            {
-              "name": "YouTube",
-              "mark": 110,
-              "comment": "no tests"
-            },
-            {
-              "name": "RS Activist - ",
-              "mark": 25,
-              "comment": "большое спасибо за помощь на прошедшем джеме: помог с выгрузкой и обработкой файла."
-            },
-            {
-              "name": "CodeJam \"Scoreboard\"",
-              "mark": 100,
-              "comment": "-"
-            }
-          ],
-          "github": "https://github.com/quiquek007"
-        },
-        {
           "shortgithub": "mohax-13",
           "tasks": [
             {
@@ -14522,6 +14476,52 @@
         {
           "shortgithub": "vitalijsk",
           "tasks": []
+        },
+        {
+          "shortgithub": "quiquek007",
+          "tasks": [
+            {
+              "name": "Markup #1",
+              "mark": 100,
+              "comment": "All given requirements were met, h1, code style, slider, responsive design, markup, some very minor style issues were met but overall the result is very good."
+            },
+            {
+              "name": "Code Jam \"DOM, DOM Events\" ",
+              "mark": 100,
+              "comment": "All requirements were met, "
+            },
+            {
+              "name": "Code Jam \"CoreJS\" ",
+              "mark": 105,
+              "comment": "Make task not fully functional, Recursion Task has global variable"
+            },
+            {
+              "name": "Code Jam \"CV\"",
+              "mark": 100,
+              "comment": "All requirements fulfilled."
+            },
+            {
+              "name": "Presentation",
+              "mark": 120,
+              "comment": "-"
+            },
+            {
+              "name": "YouTube",
+              "mark": 110,
+              "comment": "no tests"
+            },
+            {
+              "name": "RS Activist - ",
+              "mark": 25,
+              "comment": "большое спасибо за помощь на прошедшем джеме: помог с выгрузкой и обработкой файла."
+            },
+            {
+              "name": "CodeJam \"Scoreboard\"",
+              "mark": 100,
+              "comment": "-"
+            }
+          ],
+          "github": "https://github.com/quiquek007"
         },
         {
           "shortgithub": "fcsm-andrei",
